@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision
+numpy
+opencv-python
+tqdm
+matplotlib
+scikit-learn
+mediapipe
+openai
+python-dotenv
+flask          
