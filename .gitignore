@@ -1,2 +1,6 @@
 env/
 asl_env/
+asl_env/
+__pycache__/
+*.pth
+*.log
